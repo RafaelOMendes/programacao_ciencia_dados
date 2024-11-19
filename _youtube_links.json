@@ -1,0 +1,866 @@
+[
+    {
+        "date": "2024-01-01",
+        "title": "Rockin' Around The Christmas Tree",
+        "artist": "Brenda Lee",
+        "url": "https://www.youtube.com/watch?v=TFsZy9t-qDc"
+    },
+    {
+        "date": "2024-02-01",
+        "title": "Lovin On Me",
+        "artist": "Jack Harlow",
+        "url": "https://www.youtube.com/watch?v=Iq8h3GEe22o"
+    },
+    {
+        "date": "2024-03-01",
+        "title": "Texas Hold 'Em",
+        "artist": "Beyonce",
+        "url": "https://www.youtube.com/watch?v=238Z4YaAr1g"
+    },
+    {
+        "date": "2024-04-01",
+        "title": "Like That",
+        "artist": "Future, Metro Boomin & Kendrick Lamar",
+        "url": "https://www.youtube.com/watch?v=N9bKBAA22Go"
+    },
+    {
+        "date": "2024-05-01",
+        "title": "Fortnight",
+        "artist": "Taylor Swift Featuring Post Malone",
+        "url": "https://www.youtube.com/watch?v=q3zqJs7JUCQ"
+    },
+    {
+        "date": "2024-06-01",
+        "title": "I Had Some Help",
+        "artist": "Post Malone Featuring Morgan Wallen",
+        "url": "https://www.youtube.com/watch?v=4QIZE708gJ4"
+    },
+    {
+        "date": "2024-07-01",
+        "title": "I Had Some Help",
+        "artist": "Post Malone Featuring Morgan Wallen",
+        "url": "https://www.youtube.com/watch?v=4QIZE708gJ4"
+    },
+    {
+        "date": "2024-08-01",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "url": "https://www.youtube.com/watch?v=t7bQwwqW-Hc"
+    },
+    {
+        "date": "2024-09-01",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "url": "https://www.youtube.com/watch?v=t7bQwwqW-Hc"
+    },
+    {
+        "date": "2024-10-01",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "url": "https://www.youtube.com/watch?v=t7bQwwqW-Hc"
+    },
+    {
+        "date": "2024-11-01",
+        "title": "Love Somebody",
+        "artist": "Morgan Wallen",
+        "url": "https://www.youtube.com/watch?v=dcz9J57wDZE"
+    },
+    {
+        "date": "2024-12-01",
+        "title": "Burt Bacharach, Peerless Pop Composer, Dies at 94",
+        "artist": "Artista não encontrado",
+        "url": null
+    },
+    {
+        "date": "2023-01-01",
+        "title": "All I Want For Christmas Is You",
+        "artist": "Mariah Carey",
+        "url": "https://www.youtube.com/watch?v=aAkMkVFwAoo"
+    },
+    {
+        "date": "2023-02-01",
+        "title": "Flowers",
+        "artist": "Miley Cyrus",
+        "url": "https://www.youtube.com/watch?v=G7KNmW9a75Y"
+    },
+    {
+        "date": "2023-03-01",
+        "title": "Flowers",
+        "artist": "Miley Cyrus",
+        "url": "https://www.youtube.com/watch?v=G7KNmW9a75Y"
+    },
+    {
+        "date": "2023-04-01",
+        "title": "Flowers",
+        "artist": "Miley Cyrus",
+        "url": "https://www.youtube.com/watch?v=G7KNmW9a75Y"
+    },
+    {
+        "date": "2023-05-01",
+        "title": "Last Night",
+        "artist": "Morgan Wallen",
+        "url": "https://www.youtube.com/watch?v=bUjPPBxbQrQ"
+    },
+    {
+        "date": "2023-06-01",
+        "title": "Last Night",
+        "artist": "Morgan Wallen",
+        "url": "https://www.youtube.com/watch?v=bUjPPBxbQrQ"
+    },
+    {
+        "date": "2023-07-01",
+        "title": "Last Night",
+        "artist": "Morgan Wallen",
+        "url": "https://www.youtube.com/watch?v=bUjPPBxbQrQ"
+    },
+    {
+        "date": "2023-08-01",
+        "title": "Try That In A Small Town",
+        "artist": "Jason Aldean",
+        "url": "https://www.youtube.com/watch?v=b1_RKu-ESCY"
+    },
+    {
+        "date": "2023-09-01",
+        "title": "Rich Men North Of Richmond",
+        "artist": "Oliver Anthony Music",
+        "url": "https://www.youtube.com/watch?v=sqSA-SY5Hro"
+    },
+    {
+        "date": "2023-10-01",
+        "title": "Paint The Town Red",
+        "artist": "Doja Cat",
+        "url": "https://www.youtube.com/watch?v=m4_9TFeMfJE"
+    },
+    {
+        "date": "2023-11-01",
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "url": "https://www.youtube.com/watch?v=ic8j13piAhQ"
+    },
+    {
+        "date": "2023-12-01",
+        "title": "Lovin On Me",
+        "artist": "Jack Harlow",
+        "url": "https://www.youtube.com/watch?v=Iq8h3GEe22o"
+    },
+    {
+        "date": "2022-01-01",
+        "title": "All I Want For Christmas Is You",
+        "artist": "Mariah Carey",
+        "url": "https://www.youtube.com/watch?v=aAkMkVFwAoo"
+    },
+    {
+        "date": "2022-02-01",
+        "title": "We Don't Talk About Bruno",
+        "artist": "Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",
+        "url": "https://www.youtube.com/watch?v=bvWRMAU6V-c"
+    },
+    {
+        "date": "2022-03-01",
+        "title": "We Don't Talk About Bruno",
+        "artist": "Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",
+        "url": "https://www.youtube.com/watch?v=bvWRMAU6V-c"
+    },
+    {
+        "date": "2022-04-01",
+        "title": "Heat Waves",
+        "artist": "Glass Animals",
+        "url": "https://www.youtube.com/watch?v=mRD0-GxqHVo"
+    },
+    {
+        "date": "2022-05-01",
+        "title": "As It Was",
+        "artist": "Harry Styles",
+        "url": "https://www.youtube.com/watch?v=H5v3kku4y6Q"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "As It Was",
+        "artist": "Harry Styles",
+        "url": "https://www.youtube.com/watch?v=H5v3kku4y6Q"
+    },
+    {
+        "date": "2022-07-01",
+        "title": "Jimmy Cooks",
+        "artist": "Drake Featuring 21 Savage",
+        "url": "https://www.youtube.com/watch?v=V7UgPHjN9qE"
+    },
+    {
+        "date": "2022-08-01",
+        "title": "About Damn Time",
+        "artist": "Lizzo",
+        "url": "https://www.youtube.com/watch?v=IXXxciRUMzE"
+    },
+    {
+        "date": "2022-09-01",
+        "title": "As It Was",
+        "artist": "Harry Styles",
+        "url": "https://www.youtube.com/watch?v=H5v3kku4y6Q"
+    },
+    {
+        "date": "2022-10-01",
+        "title": "As It Was",
+        "artist": "Harry Styles",
+        "url": "https://www.youtube.com/watch?v=H5v3kku4y6Q"
+    },
+    {
+        "date": "2022-11-01",
+        "title": "Anti-Hero",
+        "artist": "Taylor Swift",
+        "url": "https://www.youtube.com/watch?v=b1kbLwvqugk"
+    },
+    {
+        "date": "2022-12-01",
+        "title": "Anti-Hero",
+        "artist": "Taylor Swift",
+        "url": "https://www.youtube.com/watch?v=b1kbLwvqugk"
+    },
+    {
+        "date": "2021-01-01",
+        "title": "All I Want For Christmas Is You",
+        "artist": "Mariah Carey",
+        "url": "https://www.youtube.com/watch?v=aAkMkVFwAoo"
+    },
+    {
+        "date": "2021-02-01",
+        "title": "Drivers License",
+        "artist": "Olivia Rodrigo",
+        "url": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ"
+    },
+    {
+        "date": "2021-03-01",
+        "title": "Drivers License",
+        "artist": "Olivia Rodrigo",
+        "url": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ"
+    },
+    {
+        "date": "2021-04-01",
+        "title": "Peaches",
+        "artist": "Justin Bieber Featuring Daniel Caesar & Giveon",
+        "url": "https://www.youtube.com/watch?v=tQ0yjYUFKAE"
+    },
+    {
+        "date": "2021-05-01",
+        "title": "Rapstar",
+        "artist": "Polo G",
+        "url": "https://www.youtube.com/watch?v=w2IhccXakkE"
+    },
+    {
+        "date": "2021-06-01",
+        "title": "Butter",
+        "artist": "BTS",
+        "url": "https://www.youtube.com/watch?v=WMweEpGlu_U"
+    },
+    {
+        "date": "2021-07-01",
+        "title": "Butter",
+        "artist": "BTS",
+        "url": "https://www.youtube.com/watch?v=WMweEpGlu_U"
+    },
+    {
+        "date": "2021-08-01",
+        "title": "Butter",
+        "artist": "BTS",
+        "url": "https://www.youtube.com/watch?v=WMweEpGlu_U"
+    },
+    {
+        "date": "2021-09-01",
+        "title": "Stay",
+        "artist": "The Kid LAROI & Justin Bieber",
+        "url": "https://www.youtube.com/watch?v=kTJczUoc26U"
+    },
+    {
+        "date": "2021-10-01",
+        "title": "Stay",
+        "artist": "The Kid LAROI & Justin Bieber",
+        "url": "https://www.youtube.com/watch?v=kTJczUoc26U"
+    },
+    {
+        "date": "2021-11-01",
+        "title": "Easy On Me",
+        "artist": "Adele",
+        "url": "https://www.youtube.com/watch?v=U3ASj1L6_sY"
+    },
+    {
+        "date": "2021-12-01",
+        "title": "Easy On Me",
+        "artist": "Adele",
+        "url": "https://www.youtube.com/watch?v=U3ASj1L6_sY"
+    },
+    {
+        "date": "2020-01-01",
+        "title": "All I Want For Christmas Is You",
+        "artist": "Mariah Carey",
+        "url": "https://www.youtube.com/watch?v=aAkMkVFwAoo"
+    },
+    {
+        "date": "2020-02-01",
+        "title": "The Box",
+        "artist": "Roddy Ricch",
+        "url": "https://www.youtube.com/watch?v=UNZqm3dxd2w"
+    },
+    {
+        "date": "2020-03-01",
+        "title": "The Box",
+        "artist": "Roddy Ricch",
+        "url": "https://www.youtube.com/watch?v=UNZqm3dxd2w"
+    },
+    {
+        "date": "2020-04-01",
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "url": "https://www.youtube.com/watch?v=4NRXx6U8ABQ"
+    },
+    {
+        "date": "2020-05-01",
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "url": "https://www.youtube.com/watch?v=4NRXx6U8ABQ"
+    },
+    {
+        "date": "2020-06-01",
+        "title": "Rain On Me",
+        "artist": "Lady Gaga & Ariana Grande",
+        "url": "https://www.youtube.com/watch?v=AoAm4om0wTs"
+    },
+    {
+        "date": "2020-07-01",
+        "title": "Rockstar",
+        "artist": "DaBaby Featuring Roddy Ricch",
+        "url": "https://www.youtube.com/watch?v=mxFstYSbBmc"
+    },
+    {
+        "date": "2020-08-01",
+        "title": "Rockstar",
+        "artist": "DaBaby Featuring Roddy Ricch",
+        "url": "https://www.youtube.com/watch?v=mxFstYSbBmc"
+    },
+    {
+        "date": "2020-09-01",
+        "title": "Dynamite",
+        "artist": "BTS",
+        "url": "https://www.youtube.com/watch?v=gdZLi9oWNZg"
+    },
+    {
+        "date": "2020-10-01",
+        "title": "Dynamite",
+        "artist": "BTS",
+        "url": "https://www.youtube.com/watch?v=gdZLi9oWNZg"
+    },
+    {
+        "date": "2020-11-01",
+        "title": "Positions",
+        "artist": "Ariana Grande",
+        "url": "https://www.youtube.com/watch?v=tcYodQoapMg"
+    },
+    {
+        "date": "2020-12-01",
+        "title": "Life Goes On",
+        "artist": "BTS",
+        "url": "https://www.youtube.com/watch?v=-5q5mZbe3V8"
+    },
+    {
+        "date": "2019-01-01",
+        "title": "Thank U, Next",
+        "artist": "Ariana Grande",
+        "url": "https://www.youtube.com/watch?v=gl1aHhXnN1k"
+    },
+    {
+        "date": "2019-02-01",
+        "title": "7 Rings",
+        "artist": "Ariana Grande",
+        "url": "https://www.youtube.com/watch?v=QYh6mYIJG2Y"
+    },
+    {
+        "date": "2019-03-01",
+        "title": "7 Rings",
+        "artist": "Ariana Grande",
+        "url": "https://www.youtube.com/watch?v=QYh6mYIJG2Y"
+    },
+    {
+        "date": "2019-04-01",
+        "title": "7 Rings",
+        "artist": "Ariana Grande",
+        "url": "https://www.youtube.com/watch?v=QYh6mYIJG2Y"
+    },
+    {
+        "date": "2019-05-01",
+        "title": "Old Town Road",
+        "artist": "Lil Nas X Featuring Billy Ray Cyrus",
+        "url": "https://www.youtube.com/watch?v=r7qovpFAGrQ"
+    },
+    {
+        "date": "2019-06-01",
+        "title": "Old Town Road",
+        "artist": "Lil Nas X Featuring Billy Ray Cyrus",
+        "url": "https://www.youtube.com/watch?v=r7qovpFAGrQ"
+    },
+    {
+        "date": "2019-07-01",
+        "title": "Old Town Road",
+        "artist": "Lil Nas X Featuring Billy Ray Cyrus",
+        "url": "https://www.youtube.com/watch?v=r7qovpFAGrQ"
+    },
+    {
+        "date": "2019-08-01",
+        "title": "Old Town Road",
+        "artist": "Lil Nas X Featuring Billy Ray Cyrus",
+        "url": "https://www.youtube.com/watch?v=r7qovpFAGrQ"
+    },
+    {
+        "date": "2019-09-01",
+        "title": "Truth Hurts",
+        "artist": "Lizzo",
+        "url": "https://www.youtube.com/watch?v=P00HMxdsVZI"
+    },
+    {
+        "date": "2019-10-01",
+        "title": "Truth Hurts",
+        "artist": "Lizzo",
+        "url": "https://www.youtube.com/watch?v=P00HMxdsVZI"
+    },
+    {
+        "date": "2019-11-01",
+        "title": "Someone You Loved",
+        "artist": "Lewis Capaldi",
+        "url": "https://www.youtube.com/watch?v=bCuhuePlP8o"
+    },
+    {
+        "date": "2019-12-01",
+        "title": "Circles",
+        "artist": "Post Malone",
+        "url": "https://www.youtube.com/watch?v=wXhTHyIgQ_U"
+    },
+    {
+        "date": "2018-01-01",
+        "title": "Perfect",
+        "artist": "Ed Sheeran",
+        "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+    },
+    {
+        "date": "2018-02-01",
+        "title": "God's Plan",
+        "artist": "Drake",
+        "url": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM"
+    },
+    {
+        "date": "2018-03-01",
+        "title": "God's Plan",
+        "artist": "Drake",
+        "url": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM"
+    },
+    {
+        "date": "2018-04-01",
+        "title": "God's Plan",
+        "artist": "Drake",
+        "url": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM"
+    },
+    {
+        "date": "2018-05-01",
+        "title": "Nice For What",
+        "artist": "Drake",
+        "url": "https://www.youtube.com/watch?v=U9BwWKXjVaI"
+    },
+    {
+        "date": "2018-06-01",
+        "title": "Nice For What",
+        "artist": "Drake",
+        "url": "https://www.youtube.com/watch?v=U9BwWKXjVaI"
+    },
+    {
+        "date": "2018-07-01",
+        "title": "I Like It",
+        "artist": "Cardi B, Bad Bunny & J Balvin",
+        "url": "https://www.youtube.com/watch?v=xTlNMmZKwpA"
+    },
+    {
+        "date": "2018-08-01",
+        "title": "In My Feelings",
+        "artist": "Drake",
+        "url": "https://www.youtube.com/watch?v=SD1tkI5-3dI"
+    },
+    {
+        "date": "2018-09-01",
+        "title": "In My Feelings",
+        "artist": "Drake",
+        "url": "https://www.youtube.com/watch?v=SD1tkI5-3dI"
+    },
+    {
+        "date": "2018-10-01",
+        "title": "Girls Like You",
+        "artist": "Maroon 5 Featuring Cardi B",
+        "url": "https://www.youtube.com/watch?v=aJOTlE1K90k"
+    },
+    {
+        "date": "2018-11-01",
+        "title": "Girls Like You",
+        "artist": "Maroon 5 Featuring Cardi B",
+        "url": "https://www.youtube.com/watch?v=aJOTlE1K90k"
+    },
+    {
+        "date": "2018-12-01",
+        "title": "Thank U, Next",
+        "artist": "Ariana Grande",
+        "url": "https://www.youtube.com/watch?v=gl1aHhXnN1k"
+    },
+    {
+        "date": "2017-01-01",
+        "title": "Starboy",
+        "artist": "The Weeknd Featuring Daft Punk",
+        "url": "https://www.youtube.com/watch?v=34Na4j8AVgA"
+    },
+    {
+        "date": "2017-02-01",
+        "title": "Bad And Boujee",
+        "artist": "Migos Featuring Lil Uzi Vert",
+        "url": "https://www.youtube.com/watch?v=S-sJp1FfG7Q"
+    },
+    {
+        "date": "2017-03-01",
+        "title": "Shape Of You",
+        "artist": "Ed Sheeran",
+        "url": "https://www.youtube.com/watch?v=JGwWNGJdvx8"
+    },
+    {
+        "date": "2017-04-01",
+        "title": "Shape Of You",
+        "artist": "Ed Sheeran",
+        "url": "https://www.youtube.com/watch?v=JGwWNGJdvx8"
+    },
+    {
+        "date": "2017-05-01",
+        "title": "Humble.",
+        "artist": "Kendrick Lamar",
+        "url": "https://www.youtube.com/watch?v=tvTRZJ-4EyI"
+    },
+    {
+        "date": "2017-06-01",
+        "title": "Despacito",
+        "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
+        "url": "https://www.youtube.com/watch?v=72UO0v5ESUo"
+    },
+    {
+        "date": "2017-07-01",
+        "title": "Despacito",
+        "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
+        "url": "https://www.youtube.com/watch?v=72UO0v5ESUo"
+    },
+    {
+        "date": "2017-08-01",
+        "title": "Despacito",
+        "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
+        "url": "https://www.youtube.com/watch?v=72UO0v5ESUo"
+    },
+    {
+        "date": "2017-09-01",
+        "title": "Despacito",
+        "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
+        "url": "https://www.youtube.com/watch?v=72UO0v5ESUo"
+    },
+    {
+        "date": "2017-10-01",
+        "title": "Bodak Yellow (Money Moves)",
+        "artist": "Cardi B",
+        "url": "https://www.youtube.com/watch?v=PEGccV-NOm8"
+    },
+    {
+        "date": "2017-11-01",
+        "title": "Rockstar",
+        "artist": "Post Malone Featuring 21 Savage",
+        "url": "https://www.youtube.com/watch?v=UceaB4D0jpo"
+    },
+    {
+        "date": "2017-12-01",
+        "title": "Rockstar",
+        "artist": "Post Malone Featuring 21 Savage",
+        "url": "https://www.youtube.com/watch?v=UceaB4D0jpo"
+    },
+    {
+        "date": "2016-01-01",
+        "title": "Hello",
+        "artist": "Adele",
+        "url": "https://www.youtube.com/watch?v=YQHsXMglC9A"
+    },
+    {
+        "date": "2016-02-01",
+        "title": "Sorry",
+        "artist": "Justin Bieber",
+        "url": "https://www.youtube.com/watch?v=fRh_vgS2dFE"
+    },
+    {
+        "date": "2016-03-01",
+        "title": "Work",
+        "artist": "Rihanna Featuring Drake",
+        "url": "https://www.youtube.com/watch?v=HL1UzIK-flA"
+    },
+    {
+        "date": "2016-04-01",
+        "title": "Work",
+        "artist": "Rihanna Featuring Drake",
+        "url": "https://www.youtube.com/watch?v=HL1UzIK-flA"
+    },
+    {
+        "date": "2016-05-01",
+        "title": "Panda",
+        "artist": "Desiigner",
+        "url": "https://www.youtube.com/watch?v=E5ONTXHS2mM"
+    },
+    {
+        "date": "2016-06-01",
+        "title": "One Dance",
+        "artist": "Drake Featuring WizKid & Kyla",
+        "url": "https://www.youtube.com/watch?v=ki0Ocze98U8"
+    },
+    {
+        "date": "2016-07-01",
+        "title": "One Dance",
+        "artist": "Drake Featuring WizKid & Kyla",
+        "url": "https://www.youtube.com/watch?v=ki0Ocze98U8"
+    },
+    {
+        "date": "2016-08-01",
+        "title": "Cheap Thrills",
+        "artist": "Sia Featuring Sean Paul",
+        "url": "https://www.youtube.com/watch?v=nYh-n7EOtMA"
+    },
+    {
+        "date": "2016-09-01",
+        "title": "Closer",
+        "artist": "The Chainsmokers Featuring Halsey",
+        "url": "https://www.youtube.com/watch?v=0zGcUoRlhmw"
+    },
+    {
+        "date": "2016-10-01",
+        "title": "Closer",
+        "artist": "The Chainsmokers Featuring Halsey",
+        "url": "https://www.youtube.com/watch?v=0zGcUoRlhmw"
+    },
+    {
+        "date": "2016-11-01",
+        "title": "Closer",
+        "artist": "The Chainsmokers Featuring Halsey",
+        "url": "https://www.youtube.com/watch?v=0zGcUoRlhmw"
+    },
+    {
+        "date": "2016-12-01",
+        "title": "Black Beatles",
+        "artist": "Rae Sremmurd Featuring Gucci Mane",
+        "url": "https://www.youtube.com/watch?v=b8m9zhNAgKs"
+    },
+    {
+        "date": "2015-01-01",
+        "title": "Blank Space",
+        "artist": "Taylor Swift",
+        "url": "https://www.youtube.com/watch?v=e-ORhEE9VVg"
+    },
+    {
+        "date": "2015-02-01",
+        "title": "Uptown Funk!",
+        "artist": "Mark Ronson Featuring Bruno Mars",
+        "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+    },
+    {
+        "date": "2015-03-01",
+        "title": "Uptown Funk!",
+        "artist": "Mark Ronson Featuring Bruno Mars",
+        "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+    },
+    {
+        "date": "2015-04-01",
+        "title": "Uptown Funk!",
+        "artist": "Mark Ronson Featuring Bruno Mars",
+        "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+    },
+    {
+        "date": "2015-05-01",
+        "title": "See You Again",
+        "artist": "Wiz Khalifa Featuring Charlie Puth",
+        "url": "https://www.youtube.com/watch?v=RgKAFK5djSk"
+    },
+    {
+        "date": "2015-06-01",
+        "title": "Bad Blood",
+        "artist": "Taylor Swift Featuring Kendrick Lamar",
+        "url": "https://www.youtube.com/watch?v=QcIy9NiNbmo"
+    },
+    {
+        "date": "2015-07-01",
+        "title": "See You Again",
+        "artist": "Wiz Khalifa Featuring Charlie Puth",
+        "url": "https://www.youtube.com/watch?v=RgKAFK5djSk"
+    },
+    {
+        "date": "2015-08-01",
+        "title": "Cheerleader",
+        "artist": "OMI",
+        "url": "https://www.youtube.com/watch?v=jGflUbPQfW8"
+    },
+    {
+        "date": "2015-09-01",
+        "title": "Cheerleader",
+        "artist": "OMI",
+        "url": "https://www.youtube.com/watch?v=jGflUbPQfW8"
+    },
+    {
+        "date": "2015-10-01",
+        "title": "The Hills",
+        "artist": "The Weeknd",
+        "url": "https://www.youtube.com/watch?v=yzTuBuRdAyA"
+    },
+    {
+        "date": "2015-11-01",
+        "title": "The Hills",
+        "artist": "The Weeknd",
+        "url": "https://www.youtube.com/watch?v=yzTuBuRdAyA"
+    },
+    {
+        "date": "2015-12-01",
+        "title": "Hello",
+        "artist": "Adele",
+        "url": "https://www.youtube.com/watch?v=YQHsXMglC9A"
+    },
+    {
+        "date": "2014-01-01",
+        "title": "The Monster",
+        "artist": "Eminem Featuring Rihanna",
+        "url": "https://www.youtube.com/watch?v=EHkozMIXZ8w"
+    },
+    {
+        "date": "2014-02-01",
+        "title": "Timber",
+        "artist": "Pitbull Featuring Ke$ha",
+        "url": "https://www.youtube.com/watch?v=hHUbLv4ThOo"
+    },
+    {
+        "date": "2014-03-01",
+        "title": "Dark Horse",
+        "artist": "Katy Perry Featuring Juicy J",
+        "url": "https://www.youtube.com/watch?v=0KSOMA3QBU0"
+    },
+    {
+        "date": "2014-04-01",
+        "title": "Happy",
+        "artist": "Pharrell Williams",
+        "url": "https://www.youtube.com/watch?v=ZbZSe6N_BXs"
+    },
+    {
+        "date": "2014-05-01",
+        "title": "Happy",
+        "artist": "Pharrell Williams",
+        "url": "https://www.youtube.com/watch?v=ZbZSe6N_BXs"
+    },
+    {
+        "date": "2014-06-01",
+        "title": "Fancy",
+        "artist": "Iggy Azalea Featuring Charli XCX",
+        "url": "https://www.youtube.com/watch?v=O-zpOMYRi0w"
+    },
+    {
+        "date": "2014-07-01",
+        "title": "Fancy",
+        "artist": "Iggy Azalea Featuring Charli XCX",
+        "url": "https://www.youtube.com/watch?v=O-zpOMYRi0w"
+    },
+    {
+        "date": "2014-08-01",
+        "title": "Rude",
+        "artist": "MAGIC!",
+        "url": "https://www.youtube.com/watch?v=PIh2xe4jnpk"
+    },
+    {
+        "date": "2014-09-01",
+        "title": "Shake It Off",
+        "artist": "Taylor Swift",
+        "url": "https://www.youtube.com/watch?v=nfWlot6h_JM"
+    },
+    {
+        "date": "2014-10-01",
+        "title": "All About That Bass",
+        "artist": "Meghan Trainor",
+        "url": "https://www.youtube.com/watch?v=7PCkvCPvDXk"
+    },
+    {
+        "date": "2014-11-01",
+        "title": "All About That Bass",
+        "artist": "Meghan Trainor",
+        "url": "https://www.youtube.com/watch?v=7PCkvCPvDXk"
+    },
+    {
+        "date": "2014-12-01",
+        "title": "Blank Space",
+        "artist": "Taylor Swift",
+        "url": "https://www.youtube.com/watch?v=e-ORhEE9VVg"
+    },
+    {
+        "date": "2013-01-01",
+        "title": "Locked Out Of Heaven",
+        "artist": "Bruno Mars",
+        "url": "https://www.youtube.com/watch?v=e-fA-gBCkj0"
+    },
+    {
+        "date": "2013-02-01",
+        "title": "Thrift Shop",
+        "artist": "Macklemore & Ryan Lewis Featuring Wanz",
+        "url": "https://www.youtube.com/watch?v=QK8mJJJvaes"
+    },
+    {
+        "date": "2013-03-01",
+        "title": "Harlem Shake",
+        "artist": "Baauer",
+        "url": "https://www.youtube.com/watch?v=qV0LHCHf-pE"
+    },
+    {
+        "date": "2013-04-01",
+        "title": "Thrift Shop",
+        "artist": "Macklemore & Ryan Lewis Featuring Wanz",
+        "url": "https://www.youtube.com/watch?v=QK8mJJJvaes"
+    },
+    {
+        "date": "2013-05-01",
+        "title": "Just Give Me A Reason",
+        "artist": "P!nk Featuring Nate Ruess",
+        "url": "https://www.youtube.com/watch?v=OpQFFLBMEPI"
+    },
+    {
+        "date": "2013-06-01",
+        "title": "Can't Hold Us",
+        "artist": "Macklemore & Ryan Lewis Featuring Ray Dalton",
+        "url": "https://www.youtube.com/watch?v=2zNSgSzhBfM"
+    },
+    {
+        "date": "2013-07-01",
+        "title": "Blurred Lines",
+        "artist": "Robin Thicke Featuring T.I. + Pharrell",
+        "url": "https://www.youtube.com/watch?v=yyDUC1LUXSU"
+    },
+    {
+        "date": "2013-08-01",
+        "title": "Blurred Lines",
+        "artist": "Robin Thicke Featuring T.I. + Pharrell",
+        "url": "https://www.youtube.com/watch?v=yyDUC1LUXSU"
+    },
+    {
+        "date": "2013-09-01",
+        "title": "Blurred Lines",
+        "artist": "Robin Thicke Featuring T.I. + Pharrell",
+        "url": "https://www.youtube.com/watch?v=yyDUC1LUXSU"
+    },
+    {
+        "date": "2013-10-01",
+        "title": "Wrecking Ball",
+        "artist": "Miley Cyrus",
+        "url": "https://www.youtube.com/watch?v=My2FRPA3Gf8"
+    },
+    {
+        "date": "2013-11-01",
+        "title": "Royals",
+        "artist": "Lorde",
+        "url": "https://www.youtube.com/watch?v=nlcIKh6sBtc"
+    },
+    {
+        "date": "2013-12-01",
+        "title": "Royals",
+        "artist": "Lorde",
+        "url": "https://www.youtube.com/watch?v=nlcIKh6sBtc"
+    }
+]

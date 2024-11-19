@@ -1,0 +1,722 @@
+[
+    {
+        "date": "2024-01-01",
+        "title": "Rockin' Around The Christmas Tree",
+        "artist": "Brenda Lee"
+    },
+    {
+        "date": "2024-02-01",
+        "title": "Lovin On Me",
+        "artist": "Jack Harlow"
+    },
+    {
+        "date": "2024-03-01",
+        "title": "Texas Hold 'Em",
+        "artist": "Beyonce"
+    },
+    {
+        "date": "2024-04-01",
+        "title": "Like That",
+        "artist": "Future, Metro Boomin & Kendrick Lamar"
+    },
+    {
+        "date": "2024-05-01",
+        "title": "Fortnight",
+        "artist": "Taylor Swift Featuring Post Malone"
+    },
+    {
+        "date": "2024-06-01",
+        "title": "I Had Some Help",
+        "artist": "Post Malone Featuring Morgan Wallen"
+    },
+    {
+        "date": "2024-07-01",
+        "title": "I Had Some Help",
+        "artist": "Post Malone Featuring Morgan Wallen"
+    },
+    {
+        "date": "2024-08-01",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey"
+    },
+    {
+        "date": "2024-09-01",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey"
+    },
+    {
+        "date": "2024-10-01",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey"
+    },
+    {
+        "date": "2024-11-01",
+        "title": "Love Somebody",
+        "artist": "Morgan Wallen"
+    },
+    {
+        "date": "2024-12-01",
+        "title": "Burt Bacharach, Peerless Pop Composer, Dies at 94",
+        "artist": "Artista n\u00e3o encontrado"
+    },
+    {
+        "date": "2023-01-01",
+        "title": "All I Want For Christmas Is You",
+        "artist": "Mariah Carey"
+    },
+    {
+        "date": "2023-02-01",
+        "title": "Flowers",
+        "artist": "Miley Cyrus"
+    },
+    {
+        "date": "2023-03-01",
+        "title": "Flowers",
+        "artist": "Miley Cyrus"
+    },
+    {
+        "date": "2023-04-01",
+        "title": "Flowers",
+        "artist": "Miley Cyrus"
+    },
+    {
+        "date": "2023-05-01",
+        "title": "Last Night",
+        "artist": "Morgan Wallen"
+    },
+    {
+        "date": "2023-06-01",
+        "title": "Last Night",
+        "artist": "Morgan Wallen"
+    },
+    {
+        "date": "2023-07-01",
+        "title": "Last Night",
+        "artist": "Morgan Wallen"
+    },
+    {
+        "date": "2023-08-01",
+        "title": "Try That In A Small Town",
+        "artist": "Jason Aldean"
+    },
+    {
+        "date": "2023-09-01",
+        "title": "Rich Men North Of Richmond",
+        "artist": "Oliver Anthony Music"
+    },
+    {
+        "date": "2023-10-01",
+        "title": "Paint The Town Red",
+        "artist": "Doja Cat"
+    },
+    {
+        "date": "2023-11-01",
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift"
+    },
+    {
+        "date": "2023-12-01",
+        "title": "Lovin On Me",
+        "artist": "Jack Harlow"
+    },
+    {
+        "date": "2022-01-01",
+        "title": "All I Want For Christmas Is You",
+        "artist": "Mariah Carey"
+    },
+    {
+        "date": "2022-02-01",
+        "title": "We Don't Talk About Bruno",
+        "artist": "Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast"
+    },
+    {
+        "date": "2022-03-01",
+        "title": "We Don't Talk About Bruno",
+        "artist": "Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast"
+    },
+    {
+        "date": "2022-04-01",
+        "title": "Heat Waves",
+        "artist": "Glass Animals"
+    },
+    {
+        "date": "2022-05-01",
+        "title": "As It Was",
+        "artist": "Harry Styles"
+    },
+    {
+        "date": "2022-06-01",
+        "title": "As It Was",
+        "artist": "Harry Styles"
+    },
+    {
+        "date": "2022-07-01",
+        "title": "Jimmy Cooks",
+        "artist": "Drake Featuring 21 Savage"
+    },
+    {
+        "date": "2022-08-01",
+        "title": "About Damn Time",
+        "artist": "Lizzo"
+    },
+    {
+        "date": "2022-09-01",
+        "title": "As It Was",
+        "artist": "Harry Styles"
+    },
+    {
+        "date": "2022-10-01",
+        "title": "As It Was",
+        "artist": "Harry Styles"
+    },
+    {
+        "date": "2022-11-01",
+        "title": "Anti-Hero",
+        "artist": "Taylor Swift"
+    },
+    {
+        "date": "2022-12-01",
+        "title": "Anti-Hero",
+        "artist": "Taylor Swift"
+    },
+    {
+        "date": "2021-01-01",
+        "title": "All I Want For Christmas Is You",
+        "artist": "Mariah Carey"
+    },
+    {
+        "date": "2021-02-01",
+        "title": "Drivers License",
+        "artist": "Olivia Rodrigo"
+    },
+    {
+        "date": "2021-03-01",
+        "title": "Drivers License",
+        "artist": "Olivia Rodrigo"
+    },
+    {
+        "date": "2021-04-01",
+        "title": "Peaches",
+        "artist": "Justin Bieber Featuring Daniel Caesar & Giveon"
+    },
+    {
+        "date": "2021-05-01",
+        "title": "Rapstar",
+        "artist": "Polo G"
+    },
+    {
+        "date": "2021-06-01",
+        "title": "Butter",
+        "artist": "BTS"
+    },
+    {
+        "date": "2021-07-01",
+        "title": "Butter",
+        "artist": "BTS"
+    },
+    {
+        "date": "2021-08-01",
+        "title": "Butter",
+        "artist": "BTS"
+    },
+    {
+        "date": "2021-09-01",
+        "title": "Stay",
+        "artist": "The Kid LAROI & Justin Bieber"
+    },
+    {
+        "date": "2021-10-01",
+        "title": "Stay",
+        "artist": "The Kid LAROI & Justin Bieber"
+    },
+    {
+        "date": "2021-11-01",
+        "title": "Easy On Me",
+        "artist": "Adele"
+    },
+    {
+        "date": "2021-12-01",
+        "title": "Easy On Me",
+        "artist": "Adele"
+    },
+    {
+        "date": "2020-01-01",
+        "title": "All I Want For Christmas Is You",
+        "artist": "Mariah Carey"
+    },
+    {
+        "date": "2020-02-01",
+        "title": "The Box",
+        "artist": "Roddy Ricch"
+    },
+    {
+        "date": "2020-03-01",
+        "title": "The Box",
+        "artist": "Roddy Ricch"
+    },
+    {
+        "date": "2020-04-01",
+        "title": "Blinding Lights",
+        "artist": "The Weeknd"
+    },
+    {
+        "date": "2020-05-01",
+        "title": "Blinding Lights",
+        "artist": "The Weeknd"
+    },
+    {
+        "date": "2020-06-01",
+        "title": "Rain On Me",
+        "artist": "Lady Gaga & Ariana Grande"
+    },
+    {
+        "date": "2020-07-01",
+        "title": "Rockstar",
+        "artist": "DaBaby Featuring Roddy Ricch"
+    },
+    {
+        "date": "2020-08-01",
+        "title": "Rockstar",
+        "artist": "DaBaby Featuring Roddy Ricch"
+    },
+    {
+        "date": "2020-09-01",
+        "title": "Dynamite",
+        "artist": "BTS"
+    },
+    {
+        "date": "2020-10-01",
+        "title": "Dynamite",
+        "artist": "BTS"
+    },
+    {
+        "date": "2020-11-01",
+        "title": "Positions",
+        "artist": "Ariana Grande"
+    },
+    {
+        "date": "2020-12-01",
+        "title": "Life Goes On",
+        "artist": "BTS"
+    },
+    {
+        "date": "2019-01-01",
+        "title": "Thank U, Next",
+        "artist": "Ariana Grande"
+    },
+    {
+        "date": "2019-02-01",
+        "title": "7 Rings",
+        "artist": "Ariana Grande"
+    },
+    {
+        "date": "2019-03-01",
+        "title": "7 Rings",
+        "artist": "Ariana Grande"
+    },
+    {
+        "date": "2019-04-01",
+        "title": "7 Rings",
+        "artist": "Ariana Grande"
+    },
+    {
+        "date": "2019-05-01",
+        "title": "Old Town Road",
+        "artist": "Lil Nas X Featuring Billy Ray Cyrus"
+    },
+    {
+        "date": "2019-06-01",
+        "title": "Old Town Road",
+        "artist": "Lil Nas X Featuring Billy Ray Cyrus"
+    },
+    {
+        "date": "2019-07-01",
+        "title": "Old Town Road",
+        "artist": "Lil Nas X Featuring Billy Ray Cyrus"
+    },
+    {
+        "date": "2019-08-01",
+        "title": "Old Town Road",
+        "artist": "Lil Nas X Featuring Billy Ray Cyrus"
+    },
+    {
+        "date": "2019-09-01",
+        "title": "Truth Hurts",
+        "artist": "Lizzo"
+    },
+    {
+        "date": "2019-10-01",
+        "title": "Truth Hurts",
+        "artist": "Lizzo"
+    },
+    {
+        "date": "2019-11-01",
+        "title": "Someone You Loved",
+        "artist": "Lewis Capaldi"
+    },
+    {
+        "date": "2019-12-01",
+        "title": "Circles",
+        "artist": "Post Malone"
+    },
+    {
+        "date": "2018-01-01",
+        "title": "Perfect",
+        "artist": "Ed Sheeran"
+    },
+    {
+        "date": "2018-02-01",
+        "title": "God's Plan",
+        "artist": "Drake"
+    },
+    {
+        "date": "2018-03-01",
+        "title": "God's Plan",
+        "artist": "Drake"
+    },
+    {
+        "date": "2018-04-01",
+        "title": "God's Plan",
+        "artist": "Drake"
+    },
+    {
+        "date": "2018-05-01",
+        "title": "Nice For What",
+        "artist": "Drake"
+    },
+    {
+        "date": "2018-06-01",
+        "title": "Nice For What",
+        "artist": "Drake"
+    },
+    {
+        "date": "2018-07-01",
+        "title": "I Like It",
+        "artist": "Cardi B, Bad Bunny & J Balvin"
+    },
+    {
+        "date": "2018-08-01",
+        "title": "In My Feelings",
+        "artist": "Drake"
+    },
+    {
+        "date": "2018-09-01",
+        "title": "In My Feelings",
+        "artist": "Drake"
+    },
+    {
+        "date": "2018-10-01",
+        "title": "Girls Like You",
+        "artist": "Maroon 5 Featuring Cardi B"
+    },
+    {
+        "date": "2018-11-01",
+        "title": "Girls Like You",
+        "artist": "Maroon 5 Featuring Cardi B"
+    },
+    {
+        "date": "2018-12-01",
+        "title": "Thank U, Next",
+        "artist": "Ariana Grande"
+    },
+    {
+        "date": "2017-01-01",
+        "title": "Starboy",
+        "artist": "The Weeknd Featuring Daft Punk"
+    },
+    {
+        "date": "2017-02-01",
+        "title": "Bad And Boujee",
+        "artist": "Migos Featuring Lil Uzi Vert"
+    },
+    {
+        "date": "2017-03-01",
+        "title": "Shape Of You",
+        "artist": "Ed Sheeran"
+    },
+    {
+        "date": "2017-04-01",
+        "title": "Shape Of You",
+        "artist": "Ed Sheeran"
+    },
+    {
+        "date": "2017-05-01",
+        "title": "Humble.",
+        "artist": "Kendrick Lamar"
+    },
+    {
+        "date": "2017-06-01",
+        "title": "Despacito",
+        "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber"
+    },
+    {
+        "date": "2017-07-01",
+        "title": "Despacito",
+        "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber"
+    },
+    {
+        "date": "2017-08-01",
+        "title": "Despacito",
+        "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber"
+    },
+    {
+        "date": "2017-09-01",
+        "title": "Despacito",
+        "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber"
+    },
+    {
+        "date": "2017-10-01",
+        "title": "Bodak Yellow (Money Moves)",
+        "artist": "Cardi B"
+    },
+    {
+        "date": "2017-11-01",
+        "title": "Rockstar",
+        "artist": "Post Malone Featuring 21 Savage"
+    },
+    {
+        "date": "2017-12-01",
+        "title": "Rockstar",
+        "artist": "Post Malone Featuring 21 Savage"
+    },
+    {
+        "date": "2016-01-01",
+        "title": "Hello",
+        "artist": "Adele"
+    },
+    {
+        "date": "2016-02-01",
+        "title": "Sorry",
+        "artist": "Justin Bieber"
+    },
+    {
+        "date": "2016-03-01",
+        "title": "Work",
+        "artist": "Rihanna Featuring Drake"
+    },
+    {
+        "date": "2016-04-01",
+        "title": "Work",
+        "artist": "Rihanna Featuring Drake"
+    },
+    {
+        "date": "2016-05-01",
+        "title": "Panda",
+        "artist": "Desiigner"
+    },
+    {
+        "date": "2016-06-01",
+        "title": "One Dance",
+        "artist": "Drake Featuring WizKid & Kyla"
+    },
+    {
+        "date": "2016-07-01",
+        "title": "One Dance",
+        "artist": "Drake Featuring WizKid & Kyla"
+    },
+    {
+        "date": "2016-08-01",
+        "title": "Cheap Thrills",
+        "artist": "Sia Featuring Sean Paul"
+    },
+    {
+        "date": "2016-09-01",
+        "title": "Closer",
+        "artist": "The Chainsmokers Featuring Halsey"
+    },
+    {
+        "date": "2016-10-01",
+        "title": "Closer",
+        "artist": "The Chainsmokers Featuring Halsey"
+    },
+    {
+        "date": "2016-11-01",
+        "title": "Closer",
+        "artist": "The Chainsmokers Featuring Halsey"
+    },
+    {
+        "date": "2016-12-01",
+        "title": "Black Beatles",
+        "artist": "Rae Sremmurd Featuring Gucci Mane"
+    },
+    {
+        "date": "2015-01-01",
+        "title": "Blank Space",
+        "artist": "Taylor Swift"
+    },
+    {
+        "date": "2015-02-01",
+        "title": "Uptown Funk!",
+        "artist": "Mark Ronson Featuring Bruno Mars"
+    },
+    {
+        "date": "2015-03-01",
+        "title": "Uptown Funk!",
+        "artist": "Mark Ronson Featuring Bruno Mars"
+    },
+    {
+        "date": "2015-04-01",
+        "title": "Uptown Funk!",
+        "artist": "Mark Ronson Featuring Bruno Mars"
+    },
+    {
+        "date": "2015-05-01",
+        "title": "See You Again",
+        "artist": "Wiz Khalifa Featuring Charlie Puth"
+    },
+    {
+        "date": "2015-06-01",
+        "title": "Bad Blood",
+        "artist": "Taylor Swift Featuring Kendrick Lamar"
+    },
+    {
+        "date": "2015-07-01",
+        "title": "See You Again",
+        "artist": "Wiz Khalifa Featuring Charlie Puth"
+    },
+    {
+        "date": "2015-08-01",
+        "title": "Cheerleader",
+        "artist": "OMI"
+    },
+    {
+        "date": "2015-09-01",
+        "title": "Cheerleader",
+        "artist": "OMI"
+    },
+    {
+        "date": "2015-10-01",
+        "title": "The Hills",
+        "artist": "The Weeknd"
+    },
+    {
+        "date": "2015-11-01",
+        "title": "The Hills",
+        "artist": "The Weeknd"
+    },
+    {
+        "date": "2015-12-01",
+        "title": "Hello",
+        "artist": "Adele"
+    },
+    {
+        "date": "2014-01-01",
+        "title": "The Monster",
+        "artist": "Eminem Featuring Rihanna"
+    },
+    {
+        "date": "2014-02-01",
+        "title": "Timber",
+        "artist": "Pitbull Featuring Ke$ha"
+    },
+    {
+        "date": "2014-03-01",
+        "title": "Dark Horse",
+        "artist": "Katy Perry Featuring Juicy J"
+    },
+    {
+        "date": "2014-04-01",
+        "title": "Happy",
+        "artist": "Pharrell Williams"
+    },
+    {
+        "date": "2014-05-01",
+        "title": "Happy",
+        "artist": "Pharrell Williams"
+    },
+    {
+        "date": "2014-06-01",
+        "title": "Fancy",
+        "artist": "Iggy Azalea Featuring Charli XCX"
+    },
+    {
+        "date": "2014-07-01",
+        "title": "Fancy",
+        "artist": "Iggy Azalea Featuring Charli XCX"
+    },
+    {
+        "date": "2014-08-01",
+        "title": "Rude",
+        "artist": "MAGIC!"
+    },
+    {
+        "date": "2014-09-01",
+        "title": "Shake It Off",
+        "artist": "Taylor Swift"
+    },
+    {
+        "date": "2014-10-01",
+        "title": "All About That Bass",
+        "artist": "Meghan Trainor"
+    },
+    {
+        "date": "2014-11-01",
+        "title": "All About That Bass",
+        "artist": "Meghan Trainor"
+    },
+    {
+        "date": "2014-12-01",
+        "title": "Blank Space",
+        "artist": "Taylor Swift"
+    },
+    {
+        "date": "2013-01-01",
+        "title": "Locked Out Of Heaven",
+        "artist": "Bruno Mars"
+    },
+    {
+        "date": "2013-02-01",
+        "title": "Thrift Shop",
+        "artist": "Macklemore & Ryan Lewis Featuring Wanz"
+    },
+    {
+        "date": "2013-03-01",
+        "title": "Harlem Shake",
+        "artist": "Baauer"
+    },
+    {
+        "date": "2013-04-01",
+        "title": "Thrift Shop",
+        "artist": "Macklemore & Ryan Lewis Featuring Wanz"
+    },
+    {
+        "date": "2013-05-01",
+        "title": "Just Give Me A Reason",
+        "artist": "P!nk Featuring Nate Ruess"
+    },
+    {
+        "date": "2013-06-01",
+        "title": "Can't Hold Us",
+        "artist": "Macklemore & Ryan Lewis Featuring Ray Dalton"
+    },
+    {
+        "date": "2013-07-01",
+        "title": "Blurred Lines",
+        "artist": "Robin Thicke Featuring T.I. + Pharrell"
+    },
+    {
+        "date": "2013-08-01",
+        "title": "Blurred Lines",
+        "artist": "Robin Thicke Featuring T.I. + Pharrell"
+    },
+    {
+        "date": "2013-09-01",
+        "title": "Blurred Lines",
+        "artist": "Robin Thicke Featuring T.I. + Pharrell"
+    },
+    {
+        "date": "2013-10-01",
+        "title": "Wrecking Ball",
+        "artist": "Miley Cyrus"
+    },
+    {
+        "date": "2013-11-01",
+        "title": "Royals",
+        "artist": "Lorde"
+    },
+    {
+        "date": "2013-12-01",
+        "title": "Royals",
+        "artist": "Lorde"
+    }
+]
