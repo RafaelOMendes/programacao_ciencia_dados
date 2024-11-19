@@ -73,7 +73,7 @@
     },
     {
         "date": "2024-02-01",
-        "title": "Jack Harlow - Lovin On Me [Official Music Video]",
+        "title": "Lovin On Me",
         "artist": "Jack Harlow",
         "url": "https://www.youtube.com/watch?v=Iq8h3GEe22o",
         "duration": 139.37779166666667,
@@ -289,7 +289,7 @@
     },
     {
         "date": "2024-05-01",
-        "title": "Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video)",
+        "title": "Fortnight",
         "artist": "Taylor Swift Featuring Post Malone",
         "url": "https://www.youtube.com/watch?v=q3zqJs7JUCQ",
         "duration": 249.335875,
@@ -865,7 +865,7 @@
     },
     {
         "date": "2023-02-01",
-        "title": "Miley Cyrus - Flowers (Official Video)",
+        "title": "Flowers",
         "artist": "Miley Cyrus",
         "url": "https://www.youtube.com/watch?v=G7KNmW9a75Y",
         "duration": 201.54920833333333,
@@ -937,7 +937,7 @@
     },
     {
         "date": "2023-03-01",
-        "title": "Miley Cyrus - Flowers (Official Video)",
+        "title": "Flowers",
         "artist": "Miley Cyrus",
         "url": "https://www.youtube.com/watch?v=G7KNmW9a75Y",
         "duration": 201.54920833333333,
@@ -1009,7 +1009,7 @@
     },
     {
         "date": "2023-04-01",
-        "title": "Miley Cyrus - Flowers (Official Video)",
+        "title": "Flowers",
         "artist": "Miley Cyrus",
         "url": "https://www.youtube.com/watch?v=G7KNmW9a75Y",
         "duration": 201.54920833333333,
@@ -1081,7 +1081,7 @@
     },
     {
         "date": "2023-05-01",
-        "title": "Morgan Wallen - Last Night (One Record At A Time Sessions)",
+        "title": "Last Night",
         "artist": "Morgan Wallen",
         "url": "https://www.youtube.com/watch?v=bUjPPBxbQrQ",
         "duration": 165.67439583333334,
@@ -1153,7 +1153,7 @@
     },
     {
         "date": "2023-06-01",
-        "title": "Morgan Wallen - Last Night (One Record At A Time Sessions)",
+        "title": "Last Night",
         "artist": "Morgan Wallen",
         "url": "https://www.youtube.com/watch?v=bUjPPBxbQrQ",
         "duration": 165.67439583333334,
@@ -1225,7 +1225,7 @@
     },
     {
         "date": "2023-07-01",
-        "title": "Morgan Wallen - Last Night (One Record At A Time Sessions)",
+        "title": "Last Night",
         "artist": "Morgan Wallen",
         "url": "https://www.youtube.com/watch?v=bUjPPBxbQrQ",
         "duration": 165.67439583333334,
@@ -1585,7 +1585,7 @@
     },
     {
         "date": "2023-12-01",
-        "title": "Jack Harlow - Lovin On Me [Official Music Video]",
+        "title": "Lovin On Me",
         "artist": "Jack Harlow",
         "url": "https://www.youtube.com/watch?v=Iq8h3GEe22o",
         "duration": 139.37779166666667,
@@ -1868,6 +1868,78 @@
             {
                 "note": "B",
                 "intensity": 0.382999986410141
+            }
+        ]
+    },
+    {
+        "date": "2022-04-01",
+        "title": "Heat Waves",
+        "artist": "Glass Animals",
+        "url": "https://www.youtube.com/watch?v=mRD0-GxqHVo",
+        "duration": 235.044,
+        "tempo": 160.71428571428572,
+        "chroma_mean": [
+            0.5458778142929077,
+            0.5708202123641968,
+            0.5009957551956177,
+            0.4941532015800476,
+            0.44066306948661804,
+            0.41523477435112,
+            0.4374515116214752,
+            0.4049804210662842,
+            0.45366162061691284,
+            0.4308808147907257,
+            0.5239881873130798,
+            0.573474645614624
+        ],
+        "chroma_notes": [
+            {
+                "note": "B",
+                "intensity": 0.5730000138282776
+            },
+            {
+                "note": "C#",
+                "intensity": 0.5709999799728394
+            },
+            {
+                "note": "C",
+                "intensity": 0.5460000038146973
+            },
+            {
+                "note": "A#",
+                "intensity": 0.5239999890327454
+            },
+            {
+                "note": "D",
+                "intensity": 0.5009999871253967
+            },
+            {
+                "note": "D#",
+                "intensity": 0.49399998784065247
+            },
+            {
+                "note": "G#",
+                "intensity": 0.45399999618530273
+            },
+            {
+                "note": "E",
+                "intensity": 0.4410000145435333
+            },
+            {
+                "note": "F#",
+                "intensity": 0.43700000643730164
+            },
+            {
+                "note": "A",
+                "intensity": 0.4309999942779541
+            },
+            {
+                "note": "F",
+                "intensity": 0.41499999165534973
+            },
+            {
+                "note": "G",
+                "intensity": 0.4050000011920929
             }
         ]
     },
@@ -2305,7 +2377,7 @@
     },
     {
         "date": "2022-11-01",
-        "title": "Taylor Swift - Anti-Hero (Official Music Video)",
+        "title": "Anti-Hero",
         "artist": "Taylor Swift",
         "url": "https://www.youtube.com/watch?v=b1kbLwvqugk",
         "duration": 309.3942916666667,
@@ -2377,7 +2449,7 @@
     },
     {
         "date": "2022-12-01",
-        "title": "Taylor Swift - Anti-Hero (Official Music Video)",
+        "title": "Anti-Hero",
         "artist": "Taylor Swift",
         "url": "https://www.youtube.com/watch?v=b1kbLwvqugk",
         "duration": 309.3942916666667,
@@ -2665,7 +2737,7 @@
     },
     {
         "date": "2021-04-01",
-        "title": "Justin Bieber - Peaches ft. Daniel Caesar, Giveon",
+        "title": "Peaches",
         "artist": "Justin Bieber Featuring Daniel Caesar & Giveon",
         "url": "https://www.youtube.com/watch?v=tQ0yjYUFKAE",
         "duration": 197.78133333333332,
@@ -2737,7 +2809,7 @@
     },
     {
         "date": "2021-05-01",
-        "title": "Polo G - RAPSTAR (Official Video)",
+        "title": "Rapstar",
         "artist": "Polo G",
         "url": "https://www.youtube.com/watch?v=w2IhccXakkE",
         "duration": 168.256,
@@ -2809,7 +2881,7 @@
     },
     {
         "date": "2021-06-01",
-        "title": "BTS (\u00eb\u00b0\u00a9\u00ed\u0192\u201e\u00ec\u2020\u0152\u00eb\u2026\u201e\u00eb\u2039\u00a8) _Butter_ Official MV",
+        "title": "Butter",
         "artist": "BTS",
         "url": "https://www.youtube.com/watch?v=WMweEpGlu_U",
         "duration": 182.64816666666667,
@@ -2881,7 +2953,7 @@
     },
     {
         "date": "2021-07-01",
-        "title": "BTS (\u00eb\u00b0\u00a9\u00ed\u0192\u201e\u00ec\u2020\u0152\u00eb\u2026\u201e\u00eb\u2039\u00a8) _Butter_ Official MV",
+        "title": "Butter",
         "artist": "BTS",
         "url": "https://www.youtube.com/watch?v=WMweEpGlu_U",
         "duration": 182.64816666666667,
@@ -2953,7 +3025,7 @@
     },
     {
         "date": "2021-08-01",
-        "title": "BTS (\u00eb\u00b0\u00a9\u00ed\u0192\u201e\u00ec\u2020\u0152\u00eb\u2026\u201e\u00eb\u2039\u00a8) _Butter_ Official MV",
+        "title": "Butter",
         "artist": "BTS",
         "url": "https://www.youtube.com/watch?v=WMweEpGlu_U",
         "duration": 182.64816666666667,
@@ -3025,7 +3097,7 @@
     },
     {
         "date": "2021-09-01",
-        "title": "The Kid LAROI, Justin Bieber - STAY (Official Video)",
+        "title": "Stay",
         "artist": "The Kid LAROI & Justin Bieber",
         "url": "https://www.youtube.com/watch?v=kTJczUoc26U",
         "duration": 157.6635,
@@ -3097,7 +3169,7 @@
     },
     {
         "date": "2021-10-01",
-        "title": "The Kid LAROI, Justin Bieber - STAY (Official Video)",
+        "title": "Stay",
         "artist": "The Kid LAROI & Justin Bieber",
         "url": "https://www.youtube.com/watch?v=kTJczUoc26U",
         "duration": 157.6635,
@@ -3385,7 +3457,7 @@
     },
     {
         "date": "2020-02-01",
-        "title": "Roddy Ricch - The Box [Official Music Video]",
+        "title": "The Box",
         "artist": "Roddy Ricch",
         "url": "https://www.youtube.com/watch?v=UNZqm3dxd2w",
         "duration": 212.79929166666668,
@@ -3457,7 +3529,7 @@
     },
     {
         "date": "2020-03-01",
-        "title": "Roddy Ricch - The Box [Official Music Video]",
+        "title": "The Box",
         "artist": "Roddy Ricch",
         "url": "https://www.youtube.com/watch?v=UNZqm3dxd2w",
         "duration": 212.79929166666668,
@@ -3745,7 +3817,7 @@
     },
     {
         "date": "2020-07-01",
-        "title": "DaBaby - Rockstar feat. Roddy Ricch [Official Music Video]",
+        "title": "Rockstar",
         "artist": "DaBaby Featuring Roddy Ricch",
         "url": "https://www.youtube.com/watch?v=mxFstYSbBmc",
         "duration": 429.2673125,
@@ -3817,7 +3889,7 @@
     },
     {
         "date": "2020-08-01",
-        "title": "DaBaby - Rockstar feat. Roddy Ricch [Official Music Video]",
+        "title": "Rockstar",
         "artist": "DaBaby Featuring Roddy Ricch",
         "url": "https://www.youtube.com/watch?v=mxFstYSbBmc",
         "duration": 429.2673125,
@@ -4465,7 +4537,7 @@
     },
     {
         "date": "2019-05-01",
-        "title": "Lil Nas X - Old Town Road (Official Video) ft. Billy Ray Cyrus",
+        "title": "Old Town Road",
         "artist": "Lil Nas X Featuring Billy Ray Cyrus",
         "url": "https://www.youtube.com/watch?v=r7qovpFAGrQ",
         "duration": 157.20533333333333,
@@ -4537,7 +4609,7 @@
     },
     {
         "date": "2019-06-01",
-        "title": "Lil Nas X - Old Town Road (Official Video) ft. Billy Ray Cyrus",
+        "title": "Old Town Road",
         "artist": "Lil Nas X Featuring Billy Ray Cyrus",
         "url": "https://www.youtube.com/watch?v=r7qovpFAGrQ",
         "duration": 157.20533333333333,
@@ -4609,7 +4681,7 @@
     },
     {
         "date": "2019-07-01",
-        "title": "Lil Nas X - Old Town Road (Official Video) ft. Billy Ray Cyrus",
+        "title": "Old Town Road",
         "artist": "Lil Nas X Featuring Billy Ray Cyrus",
         "url": "https://www.youtube.com/watch?v=r7qovpFAGrQ",
         "duration": 157.20533333333333,
@@ -4681,7 +4753,7 @@
     },
     {
         "date": "2019-08-01",
-        "title": "Lil Nas X - Old Town Road (Official Video) ft. Billy Ray Cyrus",
+        "title": "Old Town Road",
         "artist": "Lil Nas X Featuring Billy Ray Cyrus",
         "url": "https://www.youtube.com/watch?v=r7qovpFAGrQ",
         "duration": 157.20533333333333,
@@ -4969,7 +5041,7 @@
     },
     {
         "date": "2019-12-01",
-        "title": "Post Malone - Circles (Official Music Video)",
+        "title": "Circles",
         "artist": "Post Malone",
         "url": "https://www.youtube.com/watch?v=wXhTHyIgQ_U",
         "duration": 226.31329166666666,
@@ -5041,7 +5113,7 @@
     },
     {
         "date": "2018-01-01",
-        "title": "Ed Sheeran - Perfect (Official Music Video)",
+        "title": "Perfect",
         "artist": "Ed Sheeran",
         "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
         "duration": 279.8236875,
@@ -5905,7 +5977,7 @@
     },
     {
         "date": "2017-01-01",
-        "title": "The Weeknd - Starboy ft. Daft Punk (Official Video)",
+        "title": "Starboy",
         "artist": "The Weeknd Featuring Daft Punk",
         "url": "https://www.youtube.com/watch?v=34Na4j8AVgA",
         "duration": 273.26497916666665,
@@ -6193,7 +6265,7 @@
     },
     {
         "date": "2017-05-01",
-        "title": "Kendrick Lamar - HUMBLE.",
+        "title": "Humble.",
         "artist": "Kendrick Lamar",
         "url": "https://www.youtube.com/watch?v=tvTRZJ-4EyI",
         "duration": 183.61179166666668,
@@ -6265,7 +6337,7 @@
     },
     {
         "date": "2017-06-01",
-        "title": "Luis Fonsi, Daddy Yankee - Despacito (Audio) ft. Justin Bieber",
+        "title": "Despacito",
         "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
         "url": "https://www.youtube.com/watch?v=72UO0v5ESUo",
         "duration": 228.93714583333335,
@@ -6337,7 +6409,7 @@
     },
     {
         "date": "2017-07-01",
-        "title": "Luis Fonsi, Daddy Yankee - Despacito (Audio) ft. Justin Bieber",
+        "title": "Despacito",
         "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
         "url": "https://www.youtube.com/watch?v=72UO0v5ESUo",
         "duration": 228.93714583333335,
@@ -6409,7 +6481,7 @@
     },
     {
         "date": "2017-08-01",
-        "title": "Luis Fonsi, Daddy Yankee - Despacito (Audio) ft. Justin Bieber",
+        "title": "Despacito",
         "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
         "url": "https://www.youtube.com/watch?v=72UO0v5ESUo",
         "duration": 228.93714583333335,
@@ -6481,7 +6553,7 @@
     },
     {
         "date": "2017-09-01",
-        "title": "Luis Fonsi, Daddy Yankee - Despacito (Audio) ft. Justin Bieber",
+        "title": "Despacito",
         "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
         "url": "https://www.youtube.com/watch?v=72UO0v5ESUo",
         "duration": 228.93714583333335,
@@ -6625,7 +6697,7 @@
     },
     {
         "date": "2017-11-01",
-        "title": "Post Malone ft. 21 Savage - rockstar (Official Music Video)",
+        "title": "Rockstar",
         "artist": "Post Malone Featuring 21 Savage",
         "url": "https://www.youtube.com/watch?v=UceaB4D0jpo",
         "duration": 241.88227083333334,
@@ -6697,7 +6769,7 @@
     },
     {
         "date": "2017-12-01",
-        "title": "Post Malone ft. 21 Savage - rockstar (Official Music Video)",
+        "title": "Rockstar",
         "artist": "Post Malone Featuring 21 Savage",
         "url": "https://www.youtube.com/watch?v=UceaB4D0jpo",
         "duration": 241.88227083333334,
@@ -6769,7 +6841,7 @@
     },
     {
         "date": "2016-01-01",
-        "title": "Adele - Hello (Official Music Video)",
+        "title": "Hello",
         "artist": "Adele",
         "url": "https://www.youtube.com/watch?v=YQHsXMglC9A",
         "duration": 366.84097916666667,
@@ -6841,7 +6913,7 @@
     },
     {
         "date": "2016-02-01",
-        "title": "Justin Bieber - Sorry (PURPOSE \u00ef\u00bc\u0161 The Movement)",
+        "title": "Sorry",
         "artist": "Justin Bieber",
         "url": "https://www.youtube.com/watch?v=fRh_vgS2dFE",
         "duration": 205.11347916666668,
@@ -6913,7 +6985,7 @@
     },
     {
         "date": "2016-03-01",
-        "title": "Rihanna - Work (Explicit) ft. Drake",
+        "title": "Work",
         "artist": "Rihanna Featuring Drake",
         "url": "https://www.youtube.com/watch?v=HL1UzIK-flA",
         "duration": 454.05460416666665,
@@ -6985,7 +7057,7 @@
     },
     {
         "date": "2016-04-01",
-        "title": "Rihanna - Work (Explicit) ft. Drake",
+        "title": "Work",
         "artist": "Rihanna Featuring Drake",
         "url": "https://www.youtube.com/watch?v=HL1UzIK-flA",
         "duration": 454.05460416666665,
@@ -7057,7 +7129,7 @@
     },
     {
         "date": "2016-05-01",
-        "title": "Desiigner - Panda (Official Music Video)",
+        "title": "Panda",
         "artist": "Desiigner",
         "url": "https://www.youtube.com/watch?v=E5ONTXHS2mM",
         "duration": 242.84589583333334,
@@ -7345,7 +7417,7 @@
     },
     {
         "date": "2016-09-01",
-        "title": "The Chainsmokers - Closer (Official Video) ft. Halsey",
+        "title": "Closer",
         "artist": "The Chainsmokers Featuring Halsey",
         "url": "https://www.youtube.com/watch?v=0zGcUoRlhmw",
         "duration": 246.93333333333334,
@@ -7417,7 +7489,7 @@
     },
     {
         "date": "2016-10-01",
-        "title": "The Chainsmokers - Closer (Official Video) ft. Halsey",
+        "title": "Closer",
         "artist": "The Chainsmokers Featuring Halsey",
         "url": "https://www.youtube.com/watch?v=0zGcUoRlhmw",
         "duration": 246.93333333333334,
@@ -7489,7 +7561,7 @@
     },
     {
         "date": "2016-11-01",
-        "title": "The Chainsmokers - Closer (Official Video) ft. Halsey",
+        "title": "Closer",
         "artist": "The Chainsmokers Featuring Halsey",
         "url": "https://www.youtube.com/watch?v=0zGcUoRlhmw",
         "duration": 246.93333333333334,
@@ -7561,7 +7633,7 @@
     },
     {
         "date": "2016-12-01",
-        "title": "Rae Sremmurd - Black Beatles ft. Gucci Mane (Official Video)",
+        "title": "Black Beatles",
         "artist": "Rae Sremmurd Featuring Gucci Mane",
         "url": "https://www.youtube.com/watch?v=b8m9zhNAgKs",
         "duration": 292.9777916666667,
@@ -7705,7 +7777,7 @@
     },
     {
         "date": "2015-02-01",
-        "title": "Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars",
+        "title": "Uptown Funk!",
         "artist": "Mark Ronson Featuring Bruno Mars",
         "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
         "duration": 270.396375,
@@ -7777,7 +7849,7 @@
     },
     {
         "date": "2015-03-01",
-        "title": "Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars",
+        "title": "Uptown Funk!",
         "artist": "Mark Ronson Featuring Bruno Mars",
         "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
         "duration": 270.396375,
@@ -7849,7 +7921,7 @@
     },
     {
         "date": "2015-04-01",
-        "title": "Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars",
+        "title": "Uptown Funk!",
         "artist": "Mark Ronson Featuring Bruno Mars",
         "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
         "duration": 270.396375,
@@ -7921,7 +7993,7 @@
     },
     {
         "date": "2015-05-01",
-        "title": "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
+        "title": "See You Again",
         "artist": "Wiz Khalifa Featuring Charlie Puth",
         "url": "https://www.youtube.com/watch?v=RgKAFK5djSk",
         "duration": 237.366,
@@ -7993,7 +8065,7 @@
     },
     {
         "date": "2015-06-01",
-        "title": "Taylor Swift - Bad Blood ft. Kendrick Lamar",
+        "title": "Bad Blood",
         "artist": "Taylor Swift Featuring Kendrick Lamar",
         "url": "https://www.youtube.com/watch?v=QcIy9NiNbmo",
         "duration": 244.88927083333334,
@@ -8065,7 +8137,7 @@
     },
     {
         "date": "2015-07-01",
-        "title": "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
+        "title": "See You Again",
         "artist": "Wiz Khalifa Featuring Charlie Puth",
         "url": "https://www.youtube.com/watch?v=RgKAFK5djSk",
         "duration": 237.366,
@@ -8425,7 +8497,7 @@
     },
     {
         "date": "2015-12-01",
-        "title": "Adele - Hello (Official Music Video)",
+        "title": "Hello",
         "artist": "Adele",
         "url": "https://www.youtube.com/watch?v=YQHsXMglC9A",
         "duration": 366.84097916666667,
@@ -8497,7 +8569,7 @@
     },
     {
         "date": "2014-01-01",
-        "title": "Eminem ft. Rihanna - The Monster (Explicit) [Official Video]",
+        "title": "The Monster",
         "artist": "Eminem Featuring Rihanna",
         "url": "https://www.youtube.com/watch?v=EHkozMIXZ8w",
         "duration": 318.41525,
@@ -8569,7 +8641,7 @@
     },
     {
         "date": "2014-02-01",
-        "title": "Pitbull, Ke$ha - Timber (featuring Ke$ha - Official Video)",
+        "title": "Timber",
         "artist": "Pitbull Featuring Ke$ha",
         "url": "https://www.youtube.com/watch?v=hHUbLv4ThOo",
         "duration": 214.01833333333335,
@@ -8713,7 +8785,7 @@
     },
     {
         "date": "2014-04-01",
-        "title": "Pharrell Williams - Happy (Video)",
+        "title": "Happy",
         "artist": "Pharrell Williams",
         "url": "https://www.youtube.com/watch?v=ZbZSe6N_BXs",
         "duration": 240.61866666666666,
@@ -8785,7 +8857,7 @@
     },
     {
         "date": "2014-05-01",
-        "title": "Pharrell Williams - Happy (Video)",
+        "title": "Happy",
         "artist": "Pharrell Williams",
         "url": "https://www.youtube.com/watch?v=ZbZSe6N_BXs",
         "duration": 240.61866666666666,
@@ -8857,7 +8929,7 @@
     },
     {
         "date": "2014-06-01",
-        "title": "Iggy Azalea - Fancy ft. Charli XCX",
+        "title": "Fancy",
         "artist": "Iggy Azalea Featuring Charli XCX",
         "url": "https://www.youtube.com/watch?v=O-zpOMYRi0w",
         "duration": 200.33016666666666,
@@ -8929,7 +9001,7 @@
     },
     {
         "date": "2014-07-01",
-        "title": "Iggy Azalea - Fancy ft. Charli XCX",
+        "title": "Fancy",
         "artist": "Iggy Azalea Featuring Charli XCX",
         "url": "https://www.youtube.com/watch?v=O-zpOMYRi0w",
         "duration": 200.33016666666666,
@@ -9001,7 +9073,7 @@
     },
     {
         "date": "2014-08-01",
-        "title": "MAGIC! - Rude (Official Video)",
+        "title": "Rude",
         "artist": "MAGIC!",
         "url": "https://www.youtube.com/watch?v=PIh2xe4jnpk",
         "duration": 225.408,
@@ -9721,7 +9793,7 @@
     },
     {
         "date": "2013-06-01",
-        "title": "MACKLEMORE & RYAN LEWIS - CAN_T HOLD US FEAT. RAY DALTON (OFFICIAL MUSIC VIDEO)",
+        "title": "Can't Hold Us",
         "artist": "Macklemore & Ryan Lewis Featuring Ray Dalton",
         "url": "https://www.youtube.com/watch?v=2zNSgSzhBfM",
         "duration": 249.335875,
