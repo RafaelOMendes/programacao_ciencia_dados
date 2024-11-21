@@ -127,6 +127,24 @@ if not chroma_df.empty:
     plt.grid(visible=True, linestyle='--', alpha=0.7)
     plt.show()
 
+    # Gráfico 4: Artistas com mais músicas
+    if 'artist' in df.columns:
+        # Contar o número de músicas por artista
+        artist_counts = df['artist'].value_counts()
+
+        # Limitar a exibição aos 20 artistas mais frequentes (opcional)
+        top_artists = artist_counts.head(20)
+
+        plt.figure(figsize=(12, 8))
+        sns.barplot(y=top_artists.index, x=top_artists.values, palette='magma')
+        plt.title('Artistas com Mais Músicas')
+        plt.xlabel('Número de Músicas')
+        plt.ylabel('Artista')
+        plt.grid(axis='x')
+        plt.show()
+    else:
+        print("Coluna 'artist' não encontrada nos dados.")
+
 
 else:
     print("Nenhuma informação sobre notas musicais disponível para criar o gráfico.") 
