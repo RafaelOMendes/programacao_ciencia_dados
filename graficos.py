@@ -44,17 +44,6 @@ plt.yticks(fontsize=10)
 plt.grid(visible=True, linestyle='--', alpha=0.7)
 plt.show()
 
-# Gráfico 2: Distribuição de BPM por ano
-plt.figure(figsize=(12, 6))
-sns.boxplot(data=df, x='year', y='tempo', palette='Set2')
-plt.title('Distribuição de BPM por Ano', fontsize=16)
-plt.xlabel('Ano', fontsize=12)
-plt.ylabel('BPM', fontsize=12)
-plt.xticks(fontsize=10)
-plt.yticks(fontsize=10)
-plt.grid(visible=True, linestyle='--', alpha=0.7)
-plt.show()
-
 # Traduzir notas musicais para o sistema brasileiro
 note_translation = {
     "C": "Dó", "D": "Ré", "E": "Mi", "F": "Fá", 
@@ -109,15 +98,17 @@ if not chroma_df.empty:
     plt.grid(visible=True, linestyle='--', alpha=0.7)
     plt.show()
 
-    # Gráfico: Músicas que mais se repetem
-    # Supondo que 'track_name' seja a coluna que armazena os nomes das músicas
-    track_frequency = df['title'].value_counts()
+    # Criar uma nova coluna que combine título e artista
+    df['track_artist'] = df['title'] + " - " + df['artist']
 
-    # Criar gráfico das músicas mais repetidas
+    # Contar a frequência das combinações únicas de título e artista
+    track_artist_frequency = df['track_artist'].value_counts()
+
+    # Criar gráfico das músicas mais repetidas (considerando artista)
     plt.figure(figsize=(12, 6))
-    sns.barplot(x=track_frequency.index[:10], y=track_frequency.values[:10], palette='coolwarm')
-    plt.title('Músicas que Mais se Repetem', fontsize=16)
-    plt.xlabel('Música', fontsize=12)
+    sns.barplot(x=track_artist_frequency.index[:10], y=track_artist_frequency.values[:10], palette='coolwarm')
+    plt.title('Músicas que Mais se Repetem (Considerando Artista)', fontsize=16)
+    plt.xlabel('Música e Artista', fontsize=12)
     plt.ylabel('Frequência', fontsize=12)
     plt.xticks(rotation=90, fontsize=10)
     plt.yticks(fontsize=10)
@@ -134,10 +125,29 @@ if not chroma_df.empty:
 
         plt.figure(figsize=(12, 8))
         sns.barplot(y=top_artists.index, x=top_artists.values, palette='magma')
-        plt.title('Artistas com Mais Músicas')
+        plt.title('Artistas que Mais Aparecem')
         plt.xlabel('Número de Músicas')
         plt.ylabel('Artista')
         plt.grid(axis='x')
+        plt.show()
+
+        # Contar músicas únicas por artista
+        unique_tracks_by_artist = df.groupby('artist')['title'].nunique().sort_values(ascending=False)
+
+        # Criar gráfico para os 10 artistas com mais músicas diferentes
+        plt.figure(figsize=(12, 8))
+        sns.barplot(
+            x=unique_tracks_by_artist.head(10).values, 
+            y=unique_tracks_by_artist.head(10).index, 
+            palette='viridis'
+        )
+
+        plt.title('Artistas com Mais Músicas Diferentes', fontsize=16)
+        plt.xlabel('Número de Músicas Diferentes', fontsize=12)
+        plt.ylabel('Artista', fontsize=12)
+        plt.xticks(fontsize=10)
+        plt.yticks(fontsize=10)
+        plt.grid(axis='x', linestyle='--', alpha=0.7)
         plt.show()
     else:
         print("Coluna 'artist' não encontrada nos dados.")

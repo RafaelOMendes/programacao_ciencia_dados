@@ -7,19 +7,11 @@ import json
 
 class MusicProcessor:
     def __init__(self, music_data, music_dir="Music"):
-        """
-        Inicializa o MusicProcessor com os dados da música e o diretório dos arquivos.
-        :param music_data: Dicionário contendo informações da música (JSON original).
-        :param music_dir: Diretório onde os arquivos de música estão armazenados.
-        """
         self.music_data = music_data
         self.music_dir = music_dir
         self.audio_file = None
 
     def find_audio_file(self):
-        """
-        Procura pelo arquivo de áudio mais próximo com base no título da música.
-        """
         title = self.music_data.get("title", "").lower()
         if not title:
             raise ValueError("O título da música não foi fornecido.")
@@ -37,10 +29,6 @@ class MusicProcessor:
             raise FileNotFoundError(f"Nenhum arquivo encontrado para o título '{title}'.")
 
     def extract_audio_features(self):
-        """
-        Extrai informações da música usando librosa.
-        :return: Dicionário com os dados extraídos.
-        """
         if not self.audio_file or not os.path.exists(self.audio_file):
             raise FileNotFoundError("Arquivo de áudio não encontrado para análise.")
 
@@ -67,11 +55,6 @@ class MusicProcessor:
 
     @staticmethod
     def translate_chroma_to_notes(chroma_mean):
-        """
-        Traduz o vetor chroma_mean para as notas correspondentes.
-        :param chroma_mean: Vetor com as médias de intensidade das 12 notas.
-        :return: Lista de notas ordenadas pela intensidade.
-        """
         notes = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
         # Associar notas às intensidades
         note_intensity = list(zip(notes, chroma_mean))
@@ -81,12 +64,6 @@ class MusicProcessor:
         return [{"note": note, "intensity": round(intensity, 3)} for note, intensity in sorted_notes]
 
     def process(self):
-        """
-        Realiza o processamento completo da música:
-        1. Encontra o arquivo de áudio.
-        2. Extrai os recursos do áudio.
-        3. Atualiza o JSON com os novos dados.
-        """
         self.find_audio_file()
         audio_features = self.extract_audio_features()
         self.music_data.update(audio_features)
@@ -94,7 +71,6 @@ class MusicProcessor:
 
 
 class NumpyEncoder(json.JSONEncoder):
-    """Encoder customizado para converter tipos NumPy em tipos compatíveis com JSON."""
     def default(self, obj):
         if isinstance(obj, (np.integer, int)):
             return int(obj)
@@ -106,12 +82,6 @@ class NumpyEncoder(json.JSONEncoder):
 
 
 def process_all_music(json_file, music_dir="Music", output_file="processed_music.json"):
-    """
-    Processa todas as músicas listadas em um arquivo JSON.
-    :param json_file: Caminho para o arquivo JSON com os dados das músicas.
-    :param music_dir: Diretório onde os arquivos de música estão armazenados.
-    :param output_file: Nome do arquivo JSON de saída.
-    """
     with open(json_file, "r") as f:
         music_list = json.load(f)
 

@@ -9,8 +9,7 @@ def download_songs():
             return json.load(file)
 
     # Função para baixar os vídeos/áudios do YouTube usando yt-dlp
-    def download_audio(url, title, output_dir='downloads'):
-        # Verifica se o diretório de saída existe, caso contrário cria
+    def download_audio(url, title, output_dir='Music'):
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
         
