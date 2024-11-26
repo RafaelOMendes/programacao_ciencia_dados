@@ -6,10 +6,10 @@ def main():
     print("Iniciando processo completo...")
     
     # Passo 1: Coletar dados da Billboard
-    #fetch_billboard_data()
+    fetch_billboard_data()
     
     # Passo 2: Buscar links no YouTube
-    #fetch_youtube_links()
+    fetch_youtube_links()
     
     # Passo 3: Baixar músicas do YouTube
     download_songs()

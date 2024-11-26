@@ -20,9 +20,6 @@ def load_data_from_json(json_file):
         print(f"Erro ao carregar o arquivo JSON: {e}")
         return pd.DataFrame()
     
-#aqui começa a festa
-
-#aqui começa a festa
 
 # Carregar os dados
 df = load_data_from_json(json_file)
